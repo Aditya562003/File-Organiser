@@ -9,9 +9,6 @@ class BS{
                 System.out.println(FinalArray);
                 break;
             }
-//            else if(Array[j] <= Array[j-1] || Array[j] <= Array[j-2] || Array[j] <= Array[j-3] || Array[j] <= Array[j-4]){
-//                
-//            }
         }
     }
 }
